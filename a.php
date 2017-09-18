@@ -2,4 +2,5 @@
  echo "abc";
  echo time();
  echo "def";
+ echo "blue monday";
 ?>

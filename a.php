@@ -3,5 +3,5 @@
  echo time();
  echo "def";
  echo "blue monday";
-
+ echo "monday";
 ?>
